@@ -4,13 +4,13 @@ html {
   background-color: black;
 }
 
-.top.header{
+.top.header {
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
-.link {
+a:link, a:visited, a:hover, a:active {
   color: Aquamarine;
   font-size: 16px;
 }
